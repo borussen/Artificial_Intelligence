@@ -1,2 +1,3 @@
-# Artificial_Intelligence-ML-
+# Artificial Intelligence (Machine Learning)
+
 Artificial Intelligence Project Using Machine Learning
