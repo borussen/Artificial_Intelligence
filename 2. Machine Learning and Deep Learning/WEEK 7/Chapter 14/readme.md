@@ -36,7 +36,7 @@
 기본적인 오토인코더와 동일하게 진행하되, 오토인코더 모형 생성 시 더 깊은 층으로 구성하면 된다. <br>
 각 층의 활성함수를 변경하거나 dropout을 추가하는 등의 모델 구조를 변경해볼 수 있다. <br>
 
-위와 마찬가지로, 학습 시 optimizer를 변경해볼 수 있으며, fit() 함수의 hyperparameter인 batch_size와 epochs를 조절하여 학습을 조절해본다. <br>
+위와 마찬가지로, 학습 시 optimizer를 변경해볼 수 있으며, fit() 함수의 hyperparameter인 batch_size와 epochs를 조절하여 학습을 조절해본다. <br><br><br>
 
 
 
