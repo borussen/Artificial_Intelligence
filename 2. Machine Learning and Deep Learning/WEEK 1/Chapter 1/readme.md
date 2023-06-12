@@ -75,8 +75,7 @@ anaconda prompt가 실행되면, 폴더명과 함께 오른쪽에 코드를 작�
 
 jupyter notebook으로 진입하면 기존에 컴퓨터에 있는 폴더들이 보일 것이다. <br>
 코드를 저장하고 싶은 폴더로 진입한 후 우측에 'New' 버튼을 클릭하면 'notebook' 카테고리에 앞서 생성했던 가상환경인  'machinelearning'이 보일 것이다. <br>
-'machinelearning'을 클릭하면 해당 가상환경으로 진입하게 된다. <br>
-
+'machinelearning'을 클릭하면 해당 가상환경으로 진입하게 된다. <br><br><br>
 
 
 <파이썬 개발 플랫폼(jupyter notebook)에서 테스트 실행> 
