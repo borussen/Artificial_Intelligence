@@ -12,7 +12,7 @@
 05. 의사결정 나무 모델
 06. MNIST KNN 분류 & Make Moons_Iris ensemble
 07. 데이터 생성 및 SVM & IRIS 데이터 SVM
-08. IRIS 데이터 클러스터링 & digit 데이터 클러스터링
+08. IRIS 데이터 클러스터링 & DIGIT 데이터 클러스터링
 09. Colab MNIST MLP모형코딩
 10. DNN for MNIST (+dropout)
 11. CNN for MNIST
