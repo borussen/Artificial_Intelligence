@@ -2,8 +2,6 @@
 
 ### Duration : Fall Semester, 2022
 
-<br>
-
 ### List of Contents
 01. Test Code
 02. 1차 선형회귀 & California housing 데이터 선형회귀
