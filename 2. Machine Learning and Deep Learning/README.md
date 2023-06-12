@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning
 
-### Duration : Fall Semester, 2022
+### Duration : Fall Semester, 2021
 
 ### List of Contents
 01. Test Code
