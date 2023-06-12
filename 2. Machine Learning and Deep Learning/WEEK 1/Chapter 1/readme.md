@@ -9,7 +9,7 @@
 
 
 
-<파이썬 개발 환경 구축>
+### 파이썬 개발 환경 구축
 
 파이썬 개발 환경을 구축하기 위해서는 가장 먼저 Anaconda python 프로그램을 다운로드 받아 설치해야 한다. <br>
 (다운로드 사이트: https://www.anaconda.com/download/) <br>
@@ -78,7 +78,7 @@ jupyter notebook으로 진입하면 기존에 컴퓨터에 있는 폴더들이 �
 'machinelearning'을 클릭하면 해당 가상환경으로 진입하게 된다. <br><br><br>
 
 
-<파이썬 개발 플랫폼(jupyter notebook)에서 테스트 실행> 
+### 파이썬 개발 플랫폼(jupyter notebook)에서 테스트 실행
 
 마지막으로, 앞서 jupyter notebook 플랫폼에서 진입한 'machinelearning' 가상환경에서 파이썬 라이브러리들이 잘 설치되었는지와 파이썬 코드가 잘 작동하는지 테스트해본다. <br>
 
