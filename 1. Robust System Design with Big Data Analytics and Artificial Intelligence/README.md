@@ -21,7 +21,7 @@
 
 #### Homework
 1. Data Handling <br>
-2. Performance Metrics :KVM, SVM <br>
+2. Performance Metrics : KVM, SVM <br>
 
 #### Project
 1. Data Challenge <br>
